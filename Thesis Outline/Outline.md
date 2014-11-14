@@ -27,6 +27,7 @@ Systematic and quasisystematic
 1. Open formats (text, markdown)
 1. Open analysis
 1. Open access (Open Source Software, website, git)
+1. Open publication
 
 ### Open Formats ###
 Open formats allow for the use of Free and Open Source Software available to perform a systematic review and metaanalyis. This in turn opens the the study for external review.There is no lockdown to any particular piece of software. 
@@ -75,8 +76,9 @@ Open access over the web to each step of the process improves the reproducibilit
 ### Narrative review ###
 
 ## Meta analysis strategy ##
+1. Publication bias
 1. Assessment of heterogeneity
-2. Metaanalysis
+1. Metaanalysis
 
 ### Assessment of heterogeneity ###
 1. Numerical tool
@@ -88,7 +90,7 @@ Open access over the web to each step of the process improves the reproducibilit
 1. Rationale
 
 ## Comparison of other opioids to morphine ###
-1 Rationale
+1. Rationale
 
 ## Conclusion ##
 
