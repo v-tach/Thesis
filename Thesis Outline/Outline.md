@@ -22,6 +22,11 @@ brief literature review and discussion
 
 ### Prior Reviews ###
 Systematic and quasisystematic
+	1.	Poonai N, Paskar D, Konrad S-L, Rieder M, Joubert G, Lim R, et al. Opioid Analgesia for Acute Abdominal Pain in Children: A Systematic Review and Meta-analysis. Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. 2014 Nov;21(11):1183–92. 
+	1.	Lipp C, Dhaliwal R, Lang E. Analgesia in the emergency department: a GRADE-based evaluation of research evidence and recommendations for practice. Critical care (London, England). 2013 Mar 19;17(2):212. 
+	1.	Patanwala AE, Keim SM, Erstad BL. Intravenous opioids for severe acute pain in the emergency department. Ann Pharmacother. 2010 Nov;44(11):1800–9. 
+	1.	Niemi-Murola L, Unkuri J, Hamunen K. Parenteral opioids in emergency medicine–A systematic review of efficacy and safety. Scandinavian Journal of Pain. Elsevier; 2011;2(4):187–94. 
+	1.	Manterola C, Vial M, Moraga J, Astudillo P. Analgesia in patients with acute abdominal pain. Cochrane database of systematic reviews (Online). 2011;(1):CD005660. 
 
 ## Reproducible Research ##
 1. Open formats (text, markdown)
@@ -37,6 +42,10 @@ The steps of the analyis are clearly documented and accessible over the web. Thi
 
 ### Open access ###
 Open access over the web to each step of the process improves the reproducibility of the results and will allow the review to be updated easily in the future. Each step of the study will be maintained in a git repository that others can copy and use.
+
+### Open Publication
+Open pubication will allow anyone interested to view the results over the internet without any restrictions.
+
 ## Literature Search ##  
 1. Sources
 2. Search strategy
@@ -62,16 +71,23 @@ Open access over the web to each step of the process improves the reproducibilit
 1. Narrative review
 
 ### Eligibility ###
-1. Inclusion criteria
-2. Exclusion criteria
+1. Inclusion criteria  
+	1. Randomised controlled trials that compare an opioid analgesic to placebo or to
+	another dose of the same or a different analgesic.
+	1. Cohort studies for evidence on secondary outcomes (adverse effects)
+1. Exclusion criteria
+	1. Abstracts, conference proceedings, that do not contain enough information
 
 ### Study selection ###
-1. Review of titles and abstracts
-1. Review of full studies and publications
+1. Review of titles and abstracts by two different reviewers using a prespecified data form
+1. Review of full studies and publications by two different reviewers using a prespecified data form
+1. Resolution of conflicts by consensus
 
 ### Critical analysis ###
 1. Critical analysis tools
-2. Summary of results
+	1. Cochrane Risk of Bias tool
+	1. Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system for systematic reviews.
+	1. Interrater reliability  
 
 ### Narrative review ###
 
