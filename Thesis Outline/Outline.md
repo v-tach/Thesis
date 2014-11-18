@@ -21,7 +21,7 @@ Date:	20141023
 brief literature review and discussion  
 
 ### Prior Reviews ###
-Systematic and quasisystematic
+Systematic and quasisystematic  
 	1.	Poonai N, Paskar D, Konrad S-L, Rieder M, Joubert G, Lim R, et al. Opioid Analgesia for Acute Abdominal Pain in Children: A Systematic Review and Meta-analysis. Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. 2014 Nov;21(11):1183–92.  
 	1.	Lipp C, Dhaliwal R, Lang E. Analgesia in the emergency department: a GRADE-based evaluation of research evidence and recommendations for practice. Critical care (London, England). 2013 Mar 19;17(2):212.  
 	1.	Patanwala AE, Keim SM, Erstad BL. Intravenous opioids for severe acute pain in the emergency department. Ann Pharmacother. 2010 Nov;44(11):1800–9.  
