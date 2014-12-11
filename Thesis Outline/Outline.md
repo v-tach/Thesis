@@ -40,6 +40,8 @@ Date:	20141023
         
     1. Funding _(# 27)_
 
+# Introduction
+
 ## Rationale 
 1. Oligoanalgesia  
 1. Prior Reviews  
@@ -78,11 +80,18 @@ This review was limited to adults with acute pain treated in prehospital and eme
 
 ####_Do opiates affect the clinical evaluation of patients with acute abdominal pain?_[#Ranji:2006ki]
 
+
+## Objectives
+
+In emergency conditions morphine is considered the standard against which other analgesics are measured. The effects of morphine are dose-dependent 
+
+
 ## Reproducible Research 
 1. Open formats (text, markdown)
 1. Open analysis
-1. Open access (Open Source Software, website, git)
+1. Open access (Open Source Software, website)
 1. Open publication
+1. Collaboration and tracking tools
 
 ### Open Formats 
 Open formats allow for the use of Free and Open Source Software (FOSS) available to perform a systematic review and metaanalyis. This in turn opens the the study for external review by anyone. There is no lockdown to any particular piece of software. 
@@ -96,11 +105,16 @@ Open access over the web to each step of the process improves the reproducibilit
 ### Open Publication
 Open pubication will allow anyone interested to view the results over the internet without any restrictions.
 
+### Collaboration and tracking tools
+In computer programming version control software is used to keep track of changes to software and to allow people to collaborate on a project without interfering with each others work. Git, n open source program, will be used to provide version control and collaberation for this review.
+
 ## PRISMA Methods _(Checklist Item #)_
 
 ### Protocol and Registration _(# 5)_
 
-These reviews will use the PRISMA ( Preferred Reporting Items for Systematic Reviews and Meta-Analyses) [#PRISMA] statement and checklist as a guide.  It will be registered in the PROSPERO [#PROSPERO] database of systematic reviews.
+These reviews will use the PRISMA ( Preferred Reporting Items for Systematic Reviews and Meta-Analyses) [#PRISMA] statement and checklist as a guide.  It will be registered in the PROSPERO [#PROSPERO] database of systematic reviews.  
+
+At each step below where two reviewers independently make assessments and then compare their results the degree of concordance between the two reviewers will be reported.
 
 ### Eligibility Criteria _(# 6)_
 1. Inclusion criteria  
@@ -120,79 +134,110 @@ These reviews will use the PRISMA ( Preferred Reporting Items for Systematic Rev
 1. Clinicaltrials.gov
 
 ### Search Strategy _(# 8)_
+
+The search strategiews for each database will be developed in concert with a librarian and then peer-reviewed by another librarian.
+
 ### Study Selection Process _(# 9)_
 
 Study selection will be taken in two steps: first, there will be a review of titles and abstracts of the sudies found by electronic search by two different reviewers using a prespecified data form. The discrepancies between the two reviewers in choosing studies for further analysis at this stage will be resolved by consensus between the two reviewers.
-Second, the studies identified in the first stage will be retrieved as full text, and these will in turn be reviewed by two authors using a prespecified data form to analyse the studies for quality of methods.  Again, the discrepancies will be resolved by consensus. 
+Second, the studies identified in the first stage will be retrieved as full text, and these will in turn be reviewed by two reviewers using a prespecified data form to analyse the studies for quality of methods.  Again, the discrepancies will be resolved by consensus. 
 
 ### Data Collection Process _(# 10)_
+
+Data will be collected by two reviewers using a prespecified data form. Disagreements about the data will be resolved by consensus.
+
 ### Data Items _(# 11)_
+1. Study eligibility
+    1. inclusion criteria
+    
+1. Study design
+    1. randomisation
+    1. allocation concealment
+    
+1. Study participants
+    1. age
+    1. gender
+    1. presenting complaint
+    1. final diagnosis
+    
+1. Treatment
+    1. drug and comparison (placebo or other active drug)
+    1. dose, fixed or weight based
+    1. treatment regime, single or multiple dose, patient guided analgesia
+    1. co-adminstration of other drugs (antiemetics, NSAIDS)
+
+1. Pain (numeric score, VAS, other scoring system, patient satisfaction with treatment)
+    1. baseline pain
+    1. pain at other times (fixed interval, at discharge or admission)
+    
+1. Adverse events
+    1. nausea and vomiting
+    1. respiratory depression (minor: decreased respiratory rate or needing supplemental oxygen, major: needing naloxone or an airway intervention)
+    1. rescue analgesia
+    1. persistent pain
+    1. diagnostic interference (has been assessed in other studies and will not be a major outcome in these reviews)
+    
+1. Follow up duration
+    1. while in emergency
+    1. after discharge or admission
+
+1. Withdrawals, lost to follow up
+
+1. Study risk of bias
+
+    
 ### Risk of Bias Tool (Within Studies) _(# 12)_
+
+Randomized controlled trials will be assessed using the Cochrane Risk of Bias Tool.
+Cohort studies will be assessed using the SIGN tool for cohort studies.
 ### Summary Measures to Include _(# 13)_
+
+The main summary  measure will be the mean difference in pain score. 
+Secondary measures will be rates of adverse events.
+
 ### Synthesis Methods _(# 14)_
 ### Risk of Bias Across Studies _(# 15)_
 ### Additional Analyses _(# 16)_
 
-## PRISMA
+Subgroups that will be analysed include:
 
-These reviews will use the PRISMA ( Preferred Reporting Items for Systematic Reviews and Meta-Analyses) [#PRISMA] statement and checklist as a guide . It will be registered in the PROSPERO [#PROSPERO] database of systematic reviews.
+1. prehospital and emergency department studies
+1. adult and pediatric patients
+1. studies in different risk of bias categories
 
-## Literature Search 
-1. Sources
-2. Search strategy
-3. Documentation of results
+## Prisma Results
 
-### Sources 
-1. Medline
-1. Embase
-1. CENTRAL
-1. CINAHL
-1. Clinicaltrials.gov
+### Study Flow Diagram _(# 17)_
 
-### Search Strategies 
-The search strategiews for each database will be developed in concert with a librarian and then peer-reviewed by another 
+The results of the literature search and study selection will be presented in a flow diagram.
 
-### Documentation of results 
-1. Search results saved in an open access format (text or .bib)
+### Study Characteristics (Table) _(# 18)_
+### Study Risk of Bias (Table) _(# 19)_
+### Study Results (Table) _(# 20)_
+### Across Study Risk of Bias _(# 23)_
 
-## Systematic Review Strategy
-1. Eligibility criteria
-1. Study selection
-1. Critical analysis of selected studies
-1. Narrative review
+There will be a summary of publication bias and risk of biased reporting.
 
+### Additional Analyses _(# 24)_
 
-### Study selection 
+There will be tables summarizing study characteristics, risk of bias, and results, and additional analyses.
 
-Study selection will be taken in two steps: first, there will be a review of titles and abstracts of the sudies found by electronic search by two different reviewers using a prespecified data form. The discrepancies between the two reviewers in choosing studies for further analysis at this stage will be resolved by consensus between the two reviewers.
-Second, the studies identified in the first stage will be retrieved as full text, and these will in turn be reviewed by two authors using a prespecified data form to analyse the studies for quality of methods.  Again, the discrepancies will be resolved by consensus. 
+## PRISMA Discussion
+### Summary of Evidence _(# 24)_
 
-#### Critical analysis 
-1. Critical analysis tools
-	1. Cochrane Risk of Bias tool
-	1. Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system for systematic reviews.
-	1. Interrater reliability  
+The summary of evidence will be done using the Grading of Recommendations Assessment, Development and Evaluation (GRADE)[#GRADE] guidelines.
 
-### Narrative review 
+### Limitations _(# 25)_
 
-## Meta analysis strategy 
-1. Publication bias
-1. Assessment of heterogeneity
-1. Metaanalysis
+The limitations of the review will be discussed.
 
-### Assessment of heterogeneity 
-1. Numerical tool
+### Conclusions _(# 26)_
 
-### Metaanalysis ###
+Recommendations will be made as recommended in the GRADE guidelines. [#Andrews:2013cm]
+
+### Funding _(# 27)_
 
 
-## Optimal dosing strategy for morphine 
-1. Rationale
-
-## Comparison of other opioids to morphine 
-1. Rationale
-
-## Conclusion ##
 
 
 [#Poonai:2014hv]: Poonai N, Paskar D, Konrad S-L, Rieder M, Joubert G, Lim R, et al. Opioid Analgesia for Acute Abdominal Pain in Children: A Systematic Review and Meta-analysis. Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. 2014 Nov;21(11):1183–92.  
@@ -209,3 +254,7 @@ Second, the studies identified in the first stage will be retrieved as full text
 [#PRISMA]: <http://www.prisma-statement.org>
 
 [#PROSPERO]: <http://www.crd.york.ac.uk/PROSPERO>
+
+[#GRADE]: <http://www.gradeworkinggroup.org/index.htm>
+
+[#Andrews:2013cm]: Andrews J, Guyatt G, Oxman AD, Alderson P, Dahm P, Falck-Ytter Y, et al. GRADE guidelines: 14. Going from evidence to recommendations: the significance and presentation of recommendations. Journal of clinical epidemiology. 2013 Jul;66(7):719–25. 
