@@ -6,6 +6,7 @@ Date:	20141023
 
 1. Review
 1. Reproducible Research
+1. Prisma 
 1. Literature search strategy
 1. Systematic Review strategy
 1. Metaanalysis strategy
@@ -21,12 +22,34 @@ Date:	20141023
 Oligoanalgesia is the practise of undertreatment of pain, and this is a common problem for patients with acutely painful conditions who present for emergency care. The processes that lead to undertreatment of pain are complex. One factor that contributes is a difference of opinion on what dosing regime of opioid analgesic is appropriate for treatment of acute pain. Another factor is concern over side effects, such as nausea, vomiting, respiratory depression, or hypotension. A third concern is that treating acute pain may delay making a diagnosis and lead to delay in surgical treatment and subsequent complications. 
 
 ### Prior Reviews 
-Systematic and quasisystematic  
-	1.	Poonai N, Paskar D, Konrad S-L, Rieder M, Joubert G, Lim R, et al. Opioid Analgesia for Acute Abdominal Pain in Children: A Systematic Review and Meta-analysis. Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. 2014 Nov;21(11):1183–92.  
-	1.	Lipp C, Dhaliwal R, Lang E. Analgesia in the emergency department: a GRADE-based evaluation of research evidence and recommendations for practice. Critical care (London, England). 2013 Mar 19;17(2):212.  
-		1.	Niemi-Murola L, Unkuri J, Hamunen K. Parenteral opioids in emergency medicine–A systematic review of efficacy and safety. Scandinavian Journal of Pain. Elsevier; 2011;2(4):187–94.  
-	1.	Manterola C, Vial M, Moraga J, Astudillo P. Analgesia in patients with acute abdominal pain. Cochrane database of systematic reviews (Online). 2011;(1):CD005660.  
-1.	Patanwala AE, Keim SM, Erstad BL. Intravenous opioids for severe acute pain in the emergency department. Ann Pharmacother. 2010 Nov;44(11):1800–9.  
+There are several systematic reviews that have examined the issue of administration of opioid analgesia for acutely painful conditions. They are listed with a brief summary of their findings.
+
+_Opioid Analgesia for Acute Abdominal Pain in Children: A Systematic Review and Meta-analysis._ [#Poonai:2014hv]
+
+This is a systematic review limited to children with abdominal pain that asked the primary outcome questions: compared to placebo, does opioid analgesia work (yes), does it result in increased perforation or abscesses (no), and does it result in a delay to diagnosis (no). It asked a secondary question: compared to placebo, does opioid analgesia cause increased side effects (yes, as long as continuing to have pain is not included as a "side effect" of placebo.) 
+
+_Analgesia in the emergency department: a GRADE-based evaluation of research evidence and recommendations for practice_.[#Lipp:2013bw]
+
+This paper is a summary of a systematic review on seven different PICO questions performed by one author who then had his two co-authors review his findings. The three PICO questions posed that are pertinent to this review were 
+
+> 1. For adults accessing the emergency department with acute pain, should parenteral morphine or fentanyl be used to manage acute moderate-severe pain based on reported change in pain using the visual analog scale?
+> 2. For adults accessing the emergency department with acute pain, should parenteral hydromorphone or morphine be used to manage acute severe pain based on reported change in pain using the visual analog scale?
+> 3. For adults accessing the emergency department with acute pain, should a parenteral hydromorphone 1 + 1 mg patient-driven protocol or other intravenous opioids at any dose (physician-driven protocol) be used to manage acute pain based on reported change in pain using the visual analog scale?
+
+These are **unusually** specific PICO questions, and appear to have been driven by the publication of specific articles in the emergency medicine literature, rather than by an _a priori_ research question. The review does not include enough information to make it reproducible.
+
+_Analgesia in patients with acute abdominal pain_.[#Manterola:2011fk]  
+    This is a Cochrane systematic review of administering opioid analgesia to patients over 14 years of age with acute abdominal pain. It asked the primary question, when compared with placebo, does the use of analgesia result in "unsuitable treatment decisions" (no), and secondarily did its use improve patient comfort (yes), delay surgery (unknown), or prolong hospital stay (unknown). 
+
+_Parenteral opioids in emergency medicine–A systematic review of efficacy and safety_.[#NiemiMurola:2011fk]
+
+This review was limited to adults with acute pain treated in prehospital and emergency settings. They chose to do a qualitative review due to the heterogeneity of the studies included in the review, some of which compared different opioid regimes. The primary questions in this study were: is opioid analgesia efficacious in the prehospital setting (yes), and in the emergency department (yes); and is it safe (free of severe adverse effects) in the prehospital setting (unsure), and in the emergency department (unsure).
+
+
+_Intravenous opioids for severe acute pain in the emergency department_.[#Patanwala:2010er]
+
+
+_Do opiates affect the clinical evaluation of patients with acute abdominal pain?_[#Ranji:2006ki]
 
 ## Reproducible Research 
 1. Open formats (text, markdown)
@@ -46,6 +69,10 @@ Open access over the web to each step of the process improves the reproducibilit
 ### Open Publication
 Open pubication will allow anyone interested to view the results over the internet without any restrictions.
 
+## PRISMA
+
+This review will use the PRISMA ( Preferred Reporting Items for Systematic Reviews and Meta-Analyses) [#PRISMA] statement and checklist as a guide . It will be registered in the PROSPERO [#PROSPERO] database of systematic reviews.
+
 ## Literature Search 
 1. Sources
 2. Search strategy
@@ -59,7 +86,7 @@ Open pubication will allow anyone interested to view the results over the intern
 1. Clinicaltrials.gov
 
 ### Search Strategies 
-1. developed in concert with a librarian and then peer-reviewed
+The search strategiews for each database will be developed in concert with a librarian and then peer-reviewed by another 
 
 ### Documentation of results 
 1. Search results saved in an open access format (text or .bib)
@@ -79,11 +106,11 @@ Open pubication will allow anyone interested to view the results over the intern
 	1. Abstracts, conference proceedings, that do not contain enough information
 
 ### Study selection 
-1. Review of titles and abstracts by two different reviewers using a prespecified data form
-1. Review of full studies and publications by two different reviewers using a prespecified data form
-1. Resolution of conflicts by consensus
 
-### Critical analysis 
+Study selection will be taken in two steps: first, there will be a review of titles and abstracts of the sudies found by electronic search by two different reviewers using a prespecified data form. The discrepancies between the two reviewers in choosing studies for further analysis at this stage will be resolved by consensus between the two reviewers.
+Second, the studies identified in the first stage will be retrieved as full text, and these will in turn be reviewed by two authors using a prespecified data form to analyse the studies for quality of methods.  Again, the discrepancies will be resolved by consensus. 
+
+#### Critical analysis 
 1. Critical analysis tools
 	1. Cochrane Risk of Bias tool
 	1. Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system for systematic reviews.
@@ -111,3 +138,17 @@ Open pubication will allow anyone interested to view the results over the intern
 ## Conclusion ##
 
 
+[#Poonai:2014hv]: Poonai N, Paskar D, Konrad S-L, Rieder M, Joubert G, Lim R, et al. Opioid Analgesia for Acute Abdominal Pain in Children: A Systematic Review and Meta-analysis. Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. 2014 Nov;21(11):1183–92.  
+
+[#Lipp:2013bw]: Lipp C, Dhaliwal R, Lang E. Analgesia in the emergency department: a GRADE-based evaluation of research evidence and recommendations for practice. Critical care (London, England). 2013 Mar 19;17(2):212. 
+
+[#Manterola:2011fk]: Manterola C, Vial M, Moraga J, Astudillo P. Analgesia in patients with acute abdominal pain. Cochrane database of systematic reviews (Online). 2011;(1):CD005660.  
+[#Patanwala:2010er]: Patanwala AE, Keim SM, Erstad BL. Intravenous opioids for severe acute pain in the emergency department. Ann Pharmacother. 2010 Nov;44(11):1800–9. 
+
+[#NiemiMurola:2011fk]: Niemi-Murola L, Unkuri J, Hamunen K. Parenteral opioids in emergency medicine–A systematic review of efficacy and safety. Scandinavian Journal of Pain. Elsevier; 2011;2(4):187–94. 
+
+[#Ranji:2006ki]: Ranji SR, Goldman LE, Simel DL, Shojania KG. Do opiates affect the clinical evaluation of patients with acute abdominal pain? JAMA. American Medical Association; 2006 Oct 11;296(14):1764–74. 
+
+[#PRISMA]: <http://www.prisma-statement.org>
+
+[#PROSPERO]: <http://www.crd.york.ac.uk/PROSPERO>
