@@ -4,6 +4,7 @@ Date:	20141023
 
 # Outline   
 ### This thesis outline will be using the PRISMA Checklist for systematic reviews, so items corresponding to the PRISMA Checklist have their corresponding number appended _(#)_.
+
 1. Introduction
     1. Rationale _(# 3)_
     1. Objectives _(# 4)_
@@ -42,7 +43,7 @@ Date:	20141023
 
 # Introduction
 
-## Rationale 
+## Rationale _(# 3)_
 1. Oligoanalgesia  
 1. Prior Reviews  
 
@@ -77,14 +78,23 @@ This review was limited to adults with acute pain treated in prehospital and eme
 
 ####_Intravenous opioids for severe acute pain in the emergency department_.[#Patanwala:2010er]
 
+This review is similar to the proposed reviews of the current thesis. It is a mixture of a systematic review and narrative review, and the method section is very limited so it is not a reproducible review. It is also five years old and due for an update.
 
 ####_Do opiates affect the clinical evaluation of patients with acute abdominal pain?_[#Ranji:2006ki]
 
+Theis review is part of the JAMA Rational Clinical Exam series, and addressed the effect of opiates on management errors of patients with acute abdominal pain. It concludes that opiate administration had no association with management errors. It did not address the issue of dosing for pain control.
 
 ## Objectives
 
-In emergency conditions morphine is considered the standard against which other analgesics are measured. The effects of morphine are dose-dependent 
+In emergency conditions morphine is considered the standard against which other analgesics are measured. The effects of morphine are dose-dependent, so it the first PICO question for review is 
+> In patients presenting to prehospital care or the emergency department with an acutely painful condition, is there a treatment regime using intravenous morphine that is more effective at treating pain than usual care?
 
+There are other opiates that have different side effect profiles than morphine or a different duration of action, so the second PICO question to be reviewed is
+
+> In patients presenting to prehospital care or the emergency department with an acutely painful condition, is there another intravenous opioid that is more effective than morphine at treating pain?
+
+
+# Methods
 
 ## Reproducible Research 
 1. Open formats (text, markdown)
@@ -103,10 +113,10 @@ The steps of the analyis are clearly documented and accessible over the web. Thi
 Open access over the web to each step of the process improves the reproducibility of the results and will allow the review to be updated easily in the future. Each step of the study will be maintained in a git repository that others can copy and use.
 
 ### Open Publication
-Open pubication will allow anyone interested to view the results over the internet without any restrictions.
+Open publication will allow anyone interested to view the results over the internet without any restrictions.
 
 ### Collaboration and tracking tools
-In computer programming version control software is used to keep track of changes to software and to allow people to collaborate on a project without interfering with each others work. Git, n open source program, will be used to provide version control and collaberation for this review.
+In computer programming version control software is used to keep track of changes to software and to allow people to collaborate on a project without interfering with each others work. Git, n open source program, will be used to provide version control and collaboration for this review.
 
 ## PRISMA Methods _(Checklist Item #)_
 
