@@ -49,16 +49,17 @@ Each review will present a structured summary that will include the features in 
 ## Rationale (# 3)
  1. Oligoanalgesia
  2. Prior Reviews
-Oligoanalgesia
+
+### Oligoanalgesia
+
 Oligoanalgesia is the suboptimal treatment of pain, and this is a common problem for patients with acutely painful conditions who present for emergency care[1](1) [2].  The processes that lead to undertreatment of pain are complex. (2) Factors such as lack of clinician education about the management of  pain[3]; treatment of pain not being included in quality improvement initiatives; fears of addiction and abuse of opioids; concerns over side effects, such as nausea, vomiting, respiratory depression, or hypotension[4]; and differential treatment to members of racial and ethnic groups contribute to the undertreatment of pain. (3) A historical concern is that treating acute pain may delay making a diagnosis and lead to delay in surgical treatment and subsequent complications[5], some reviews addressing these concerns are summarized below. Caregivers’ attitudes such as the belief that pain is an accepted part of the process of disease and that patients pain experience is not valid also contribute. (4) 
 In addition to systemic factors the treatment of pain varies widely among clinicians in the same clinical settings, both in prehospital (5) and in the emergency department setting. (6) 
 Morphine is the “gold standard” opioid which is often used as a comparison in studies of other analgesics, yet the dose of morphine that is used in clinical practice is lower than the equivalent doses of other opioids. (7) (8) (9)
 Education about pain management and protocols for analgesia have the possibility to improve the treatment of pain. In order to effectively treat pain we need to know the optimal doses of opioid analgesia, and that is the purpose of this study.
 
 
+### Prior Related Reviews
 
-
-Prior Related Reviews
 Several previous systematic reviews have examined the issue of administration of opioid analgesia for acutely painful conditions. They are listed with a brief summary of their findings.
 One systematic review and meta-analysis was limited to children with abdominal pain. That review concluded that (a) compared to placebo, opioid analgesia was effective in controlling pain;  (b) opioid analgesia did not result in  increased perforation or abscesses;  and (c) administration of opioids did not result in a delay to diagnosis. It also concluded that, compared to placebo, opioid analgesia did cause increased adverse events, (although the authors did not include continuing to have pain as an “adverse event” with placebo[6]. [1]
 Analgesia in the emergency department: a GRADE-based evaluation of research evidence and recommendations for practice.[2]
@@ -73,7 +74,9 @@ Do opiates affect the clinical evaluation of patients with acute abdominal pain?
 A 2006 review (part of the JAMA Rational Clinical Exam series) addressed the effect of opiates on management errors of patients with acute abdominal pain. It concludes that opiate administration had no association with management errors. It did not address the issue of dosing for pain control. [6]
 
 Finally, a 2010 review summarized the evidence for intravenous opioids for acute pain in the emergency department. [5]It was a combination of a  systematic review and narrative review, which did not follow the PRISMA guidelines, and is not reproducible. It is also five years old and due for an update[13], since a number of studies on opioid analgesia in the emergency settinthave been published since 2010. Thus an updated and systematic review on this question is due.
-Study Objectives[14]
+
+### Study Objectives[14]
+
 In emergency conditions morphine is considered the standard against which other analgesics are measured. The effects of morphine are dose-dependent, so it the first question for review is: 
 
 In patients presenting to prehospital care or the emergency department with an acutely painful condition, is there a treatment regime using intravenous morphine that is more effective in treating pain than usual care?
@@ -81,53 +84,45 @@ In patients presenting to prehospital care or the emergency department with an a
 There are other opiates that have different side effect profiles than morphine or a different duration of action, so the second planned review is:
 
 In patients presenting to prehospital care or the emergency department with an acutely painful condition, is there another intravenous opioid that is more effective than an  optimal dose of morphine at treating pain?
-Methods
-Reproducible Research[15]
+
+## Methods
+
+### Reproducible Research[15]
+
 These reviews will be done using the principles of reproducible research There are five key aspect of reproducible research.  These are: open formats; open analysis; open access; open publication; and collaboration and tracking tools. 
 Open formats allow for the use of Free and Open Source Software (FOSS) available to perform a systematic review and metaanalyis. This in turn opens the the study for external review by anyone. There is no lockdown to any particular piece of software. 
 Open analysis refers to the steps of the analyis being clearly documented and accessible over the web. This increases the transparency of the review process and increases confidence in the process.
 Open access over the web to each step of the process improves the reproducibility of the results and will allow the review to be updated easily in the future. Each step of the study will be maintained in a git repository that others can copy and use.
 Open publication will allow anyone interested to view the results over the internet without any restrictions. Collaboration and tracking tools refers to the idea that in computer programming, version control software is used to keep track of changes to software and to allow people to collaborate on a project without interfering with each other’s work. Git, an open source program, will be used to provide version control and collaboration for this review.
 
-Prisma Methods
+### Prisma Methods
 
-These reviews will use the PRISMA ( Preferred Reporting Items for Systematic Reviews and Meta-Analyses) [7] statement and checklist as a guide. 
-
-Title (#1)
-These will be systematic reviews, and a meta-analysis of each review will be done if there are sufficient studies for  meta-analyses to be done
-
-Structured Summary (#2)
-There will be a structured summary with the relevant information as in the Prisma checklist:
-
-Provide a structured summary including, as applicable: background; objectives; data sources; study eligibility criteria, participants, and interventions; study appraisal and synthesis methods; results; limitations; conclusions and implications of key findings; systematic review registration number. 
-
-Rationale (#3)
-The rationale for these reviews is the problem of oligoanalgesia for patients with acutely painful conditions in the emergency setting, as discussed above.
-
-Objectives (#4)
-The objectives are described above.
-
-
-Protocol and Registration (#5)
+### Protocol and Registration (#5)
 They will be registered in the PROSPERO [8] database of systematic reviews. 
 The review protocol will be available on the web as part of a git repository.
 
-Eligibility Criteria (#6)
+### Eligibility Criteria (#6)
  1. Inclusion criteria
  1. Randomised controlled trials or cohort studies  that compare an opioid analgesic to placebo or to another dose of the same or a different analgesic[17].
  2. Cohort studies for evidence on secondary outcomes (adverse effects)
  2. Exclusion criteria
  1. Abstracts, conference proceedings, that do not contain enough information
 
-Information sources (# 7)
+### Information sources (# 7)
+
  The information sources that will be searched include Medline, Embase, CENTRAL, CINAHL, and Clinicaltrials.gov.  The papers that are retrieved and found to be relevant for this review will have their list of references reviewed to find studies that  have not been identified through the database search.
 
-Search Strategy (# 8)
+### Search Strategy (# 8)
+
 The search strategies for each database will be developed in concert with a librarian and then peer-reviewed by another librarian. They will be available on the web as part of the git repository that contains the documentation of this thesis. (Appendix 1)
-Study Selection Process (# 9)
+
+### Study Selection Process (# 9)
+
 Study selection will be conducted in two steps: first, there will be a review of titles and abstracts of the studies found by electronic search by two different reviewers using a prespecified data form[18]. (Appendix 2) The discrepancies between the two reviewers in choosing studies for further analysis at this stage will be resolved by consensus between the two reviewers. 
 Second, the studies identified as potentially relevant in the first stage will be retrieved as full text, and these will in turn be reviewed by two reviewers using a prespecified data form[19] to analyse the studies for quality of methods. ( Appendix 3) Again, the discrepancies will be resolved by consensus. 
-Data Collection Process (# 10)
+
+### Data Collection Process (# 10)
+
 Data will be collected by two reviewers using a prespecified data form[20]. (Appendix 4) Disagreements about the data will be resolved by consensus.
 Data Items (# 11)
  1. Study eligibility
@@ -148,6 +143,7 @@ Data Items (# 11)
  5. Pain (numeric score, VAS, other scoring system, patient satisfaction with treatment)
  1. baseline pain
  2.   number and proportion of patients with adequate or inadequate relief of pain at other times
+ 
 [21] 3. pain at other times (fixed interval, at discharge or admission)
  
  6. Adverse events
@@ -176,19 +172,39 @@ reasons for up rating the confidence in effect estimates
  
 
 
-Risk of Bias Tool (Within Studies) (# 12)
+### Risk of Bias Tool (Within Studies) (# 12)
+
 Randomized controlled trials will be assessed using the Cochrane Risk of Bias Tool. Cohort studies will be assessed using the SIGN tool for cohort studies[23].  Each study will also be rated according to the GRADE guidelines. There will be a standardized data form that will be used by each reviewer. (Appendix 4). Each relevant article will be critically appraised  by two reviewers, independently. Disagreements will be resolved through concensus, and where this is not possible, a third reviewer will be consulted.
-Summary Measures to Include (# 13)
-The main summary measure will be the patient’s assessment of whether they have had enough medication to treat their pain.  Secondary measures will be rates of adverse events.
-Synthesis Methods (# 14)
+
+### Summary Measures to Include (# 13)
+The main summary measure will be the patient’s assessment of whether they have had enough medication to treat their pain. 
+
+How can we assess if a treatment gives adequate pain relief?
+
+The obvious way to do it is to ask the patient if there pain is better.
+
+So, an outcome such as "patient says no need for further analgesia" would be optimum, as long as there is some acknowledgement that patient concerns such as fear of becoming addicted, not being a bother to ED staff, or fear of oversedation have been addressed.
+
+Notably, studies of the minimum detectible change in the Visual Analogue Scale (VAS) have used patient statements like "a little better" as the gold standard by which the minimal detectible change is defined. But the minimal detectible change that is found in these studies is a statistical artefact that is reified:
+for any individual patient the number of millimetres on the VAS may or may not apply to their case.
+
+So why use the VAS. It sets a numerical value which is easier to manipulate statistically, it can be treated as a continuous outcome. 
+
+Do patients really want to feel a little better? Most want to feel a lot better, and to feel that they have had enough medication. What score on the VAS reflects this? One study found that on average an change of 30 mm on the VAS corresponded to patients saying that they felt that they had adequate analgesia, but again this is a reification of a number: the ultimate standard for an individual patient is that they feel they are better, not that they hit the 30 mm target. 
+
+
+
+ Secondary measures will be rates of adverse events.
+
+### Methods of Analysis (# 14)
 
 There will be a Summary of Findings Table as recommended by the GRADE guidelines.  If there are enough studies to do a meta-analysis the heterogeneity of the studies will be assessed using I-squared.  A random effects meta-analysis will be done, as it is anticipated that the studies will have a heterogenous mix of patients, a heterogenous mix of acutely painful conditions,  and a heterogenous mix of comparison treatments. 
 
-Risk[25] of Bias Across Studies (# 15)
+### Risk[25] of Bias Across Studies (# 15)
 
 The GRADE items relative to risk of bias across studies, inconsistency and publication bias, will be assessed. 
 
-Additional Analyses (# 16)
+### Additional Analyses (# 16)
 Subgroups that will be analysed include:
 1. prehospital and emergency department studies
 2. adult and pediatric patients
@@ -196,31 +212,47 @@ Subgroups that will be analysed include:
 
 
 
-Prisma Results
-Study Flow Diagram (# 17)
+## Results
+
+### Study Flow Diagram (# 17)
+
 The results of the literature search and study selection will be presented in a flow diagram.
 Study Characteristics (Table) (# 18)
 
 These will be presented according to the GRADE guidelines summary of findings table.
 
-Study Risk of Bias (Table) (# 19)
+### Study Risk of Bias (Table) (# 19)
 
 These will be presented according to the GRADE guidelines summary of findings table.
-Study Results (Table) (# 20)
+
+### Study Results (Table) (# 20)
 
 These will be presented according to the GRADE guidelines summary of findings table.
-Across Study Risk of Bias (# 23)
+
+### Across Study Risk of Bias (# 23)
+
 These will be presented according to the GRADE guidelines summary of findings table.
-Additional Analyses (# 24)
+
+### Additional Analyses (# 24)
+
 There will be tables summarizing study characteristics, risk of bias, and results, and additional analyses.
-PRISMA Discussion
-Summary of Evidence (# 24)
+
+## Discussion
+
+### Summary of Evidence (# 24)
+
 The summary of evidence will be done using the Grading of Recommendations Assessment, Development and Evaluation (GRADE)[9] guidelines, and presented in a summary of findings table.  The critical outcomes of patient-assessed adequacy of pain relief and severe adverse effects will have be used to 
-Limitations (# 25)
+
+## Limitations (# 25)
 The limitations of the review will be discussed.
-Conclusions (# 26)
+
+###Conclusions (# 26)
+
 Recommendations will be made as recommended in the GRADE guidelines. [10]
-Funding (# 27)
+
+###Funding (# 27)
+
+## References
 
  1. Poonai N, Paskar D, Konrad S-L, Rieder M, Joubert G, Lim R, et al. Opioid Analgesia for Acute Abdominal Pain in Children: A Systematic Review and Meta-analysis. Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. 2014 Nov;21(11):1183–92. 
 
