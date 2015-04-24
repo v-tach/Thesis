@@ -1,6 +1,6 @@
 # Outline
 
-This thesis outline will be using the PRISMA Checklist for systematic reviews, and so headings in this outline are numbered to correspond to the items in the checklist.
+This thesis outline will be using the [PRISMA][7] Checklist for systematic reviews, and so headings in this outline are numbered to correspond to the items in the checklist.
 
 ## PRISMA Checklist
 
@@ -55,7 +55,7 @@ Each review will present a structured summary that will include the features in 
 
 ### 1. Oligoanalgesia
 
-Oligoanalgesia is the inadequate treatment of pain, and in the emergency setting the term is usually reserved for  the experience of patients with acutely painful conditions who present for emergency care, and who do not get adequate analgesia [#Wilson:1989da]. The processes that lead to undertreatment of pain are complex [#Rupp:2004ct]. It has been traditional to think that the administration of opioid analgesia may lead to complications. Sir Vincent Zachary Cope, the author of *Cope's Early Diagnosis of the Acute abdomen*, a standard text of general surgery, said in 1929:
+Oligoanalgesia is the inadequate treatment of pain, and in the emergency setting the term is usually reserved for  the experience of patients with acutely painful conditions who present for emergency care, and who do not get adequate analgesia [#Wilson:1989da]. The processes that lead to undertreatment of pain are complex [#Rupp:2004ct]. It has been traditional to think that the administration of opioid analgesia may lead to complications. Sir Vincent Zachary Cope, the author of *Cope's Early Diagnosis of the Acute Abdomen*, a standard text of general surgery, said in 1929:
 
 >There are many acute abdominal pains for which a dose of
 morphine is the correct treatment—such, for example, as
@@ -95,7 +95,7 @@ A fourth systematic review[#NiemiMurola:2011fk] was limited to adults with acute
 
 Another review[#Ranji:2006ki] (part of the JAMA Rational Clinical Exam series) addressed the effect of opiates on management errors of patients with acute abdominal pain. It concluded that opiate administration had no association with management errors. It did not address the issue of dosing for pain control. 
 
-Finally, a 2010 review summarized the evidence for intravenous opioids for acute pain in the emergency department. It was a combination of a systematic review and narrative review. In the systematic review portion it included 10 hospital based and 3 pre-hopital studies, and the authors concluded that in equianalgesic doses of intravenous opioids there is no difference in analgesic effect. In their narrative review they suggest that nurse-initiated protocols and repeated dosing may lead to better analgesia. It is closest in topic to the planned reviews here. The reasons to perform the planned reviews in the light of this review are that it has been five years since that publication of this review, and so it is due for an update; and the methodology of their study is not reported in detail, so a study that gives more detailed methods would make the results more reproducible. 
+Finally, a 2010 review summarized the evidence for intravenous opioids for acute pain in the emergency department. It was a combination of a systematic review and narrative review. In the systematic review portion it included 10 hospital based and 3 pre-hospital studies, and the authors concluded that in equianalgesic doses of intravenous opioids there is no difference in analgesic effect. In their narrative review they suggest that nurse-initiated protocols and repeated dosing may lead to better analgesia. It is closest in topic to the planned reviews here. The reasons to perform the planned reviews in the light of this review are that it has been five years since that publication of this review, and so it is due for an update; and the methodology of their study is not reported in detail, so a study that gives more detailed methods would make the results more reproducible. 
 
 ### 4. Objectives
 
@@ -111,20 +111,22 @@ There are other opiates that have different side effect profiles than morphine o
 
 ### Reproducible Research
 
-These reviews will be done using the principles of reproducible research There are five key aspects of reproducible research. These are: open formats; open analysis; open access; open publication; and collaboration and tracking tools. 
+These reviews will be done using the principles of reproducible research[#Peng:2006kx]. There are five key aspects of reproducible research. These are: open formats; open analysis; open access; open publication; and open collaboration and tracking tools. 
 
-Open formats allow for the use of Free and Open Source Software (FOSS) available to perform a systematic review and metaanalyis. This in turn opens the the study for external review by anyone. There is no lockdown to any particular piece of software. 
+Open formats allow for the use of the user's choice of proprietary or Free and Open Source Software (FOSS) to perform a systematic review and metaanalyis. This in turn opens the the study for external review by anyone. There is no lockdown to any particular piece of software. 
 
-Open analysis refers to the steps of the analyis being clearly documented and accessible over the web. This increases the transparency of the review process and increases confidence in the process.
+Open analysis refers to the steps of the analyis being clearly documented and accessible over the web. This increases the transparency of the review process and increases confidence in the process.[#Laine:2007co]
 
-Open access over the web to each step of the process improves the reproducibility of the results and will allow the review to be updated easily in the future. Each step of the study will be maintained in a git repository that others can copy and use.
+Open access over the web to each step of the process improves the reproducibility of the results and will allow the review to be updated easily in the future. Each step of the study will be maintained in a git repository that others can copy and use, and will allow easy replication of the review by anyone with internet access.
 
-Open publication will allow anyone interested to view the results over the internet without any restrictions. Collaboration and tracking tools refers to the idea that in computer programming, version control software is used to keep track of changes to software and to allow people to collaborate on a project without interfering with each other’s work. Git, an open source program, will be used to provide version control and collaboration for this review.
+Open publication will allow anyone interested to view the results over the internet without any restrictions.[#Groves:2012cd] 
+
+Open collaboration and tracking tools[#Ram:2013de] refers  a concept that comes from computer programming: version control software is used to keep track of changes to software and to allow people to collaborate on a project without interfering or overwriting each other’s work. It also keeps track of who is contributing to the work. Git, an open source program, will be used to provide version control and collaboration for this review.
 
 ### Prisma Methods
 
 ### 5. Protocol and Registration 
-They will be registered in the PROSPERO [8] database of systematic reviews. 
+They will be registered in the [PROSPERO][8] database of systematic reviews. 
 The review protocol will be available on the web as part of a git repository.
 
 ### 6. Eligibility Criteria 
@@ -153,56 +155,70 @@ Data will be collected by two reviewers using a prespecified data form[20]. (App
 
 ### 11. Data Items 
 
- 1. Study eligibility
- 1. inclusion criteria
- 2. Study design
- 1. randomisation
- 2. allocation concealment
- 3. Study participants
- 1. age
- 2. gender
- 3. presenting complaint
- 4. final diagnosis
- 4. Treatment
- 1. drug and comparison (placebo or other active drug)
- 2. dose, fixed or weight based
- 3. treatment regime, single or multiple dose, patient guided analgesia
- 4. co-adminstration of other drugs (antiemetics, NSAIDS)
- 5. Pain (numeric score, VAS, other scoring system, patient satisfaction with treatment)
- 1. baseline pain
- 2.   number and proportion of patients with adequate or inadequate relief of pain at other times
- 
-[21] 3. pain at other times (fixed interval, at discharge or admission)
- 
- 6. Adverse events
- 1. nausea and vomiting[22]
- 2. respiratory depression (minor: decreased respiratory rate or needing supplemental oxygen, major: needing naloxone or an airway intervention)
-3. rescue analgesia
-4. persistent pain
-5. diagnostic interference (has been assessed in other studies and will not be a major outcome in these reviews)
- 7. Follow up duration
- 1. while in emergency
- 2. after discharge or admission
- 8. Withdrawals, lost to follow up
+Data items will be collected using a prespecified form. (see Appendix)
+The form will include:
 
-9. Study risk of bias 
-10. GRADE assesment of the confidence in effect estimates (quality of evidence)  that apply to an individual study:
-reasons for down rating confidence in effect estimates
- 1. risk of bias
- 2. imprecision
- 3. inconsistency (does not apply to an individual study)
- 4. indirectness
- 5. publication bias (does not apply to an individual study)
-reasons for up rating the confidence in effect estimates
-1. Large magnitude of effect
-2. Dose-response gradient
-3. All plausible biases would increase confidence in the effect estimate
- 
+1. Study eligibility
+
+1. Inclusion criteria
+
+1. Study design
+
+1. Randomisation
+
+1. Allocation concealment
+
+1. Study participants
+	1. age
+	1. gender
+	1. presenting complaint
+	1. final diagnosis
+
+1. Treatment
+	1. drug and comparison (placebo or other active drug)
+	1. dose, fixed or weight based
+	1. treatment regime, single or multiple dose, patient guided analgesia
+	1. co-adminstration of other drugs (antiemetics, NSAIDS)
+
+1. Pain (numeric score, VAS, other scoring system, patient satisfaction with treatment)
+	1. baseline pain
+	1. number and proportion of patients with adequate or inadequate relief of pain at other times
+	1. pain at other times (fixed interval, at discharge or admission)
+	1. use of rescue analgesia
+
+1. Adverse events
+	1. nausea and vomiting[22]
+	1. respiratory depression (minor: decreased respiratory rate or needing supplemental oxygen, major: needing naloxone or an airway intervention)
+	1. rescue analgesia
+	1. persistent pain
+	1. diagnostic interference (has been assessed in other studies and will not be a major outcome in these reviews)
+
+1. Follow up duration
+	1. while in emergency
+	1. after discharge or admission
+	1. Withdrawals, lost to follow up
+
+1. Study risk of bias (see below)
+
+1. GRADE assesment of the confidence in effect estimates[#Guyatt:2011eza] (quality of evidence) that apply to an individual study:
+
+	#### reasons for down rating confidence in effect estimates
+
+	1. risk of bias
+	1. imprecision
+	1. inconsistency (does not apply to an individual study)
+	1. indirectness
+	1. *publication bias (does not apply to an individual study)*
+	#### reasons for up rating the confidence in effect estimates
+	1. Large magnitude of effect
+	1. Dose-response gradient
+	1. All plausible biases would increase confidence in the effect estimate
 
 
 ### 12. Risk of Bias (Within Studies) 
 
-Randomized controlled trials will be assessed using the Cochrane Risk of Bias Tool. Cohort studies will be assessed using the SIGN tool for cohort studies. Each relevant article will be critically appraised  by two reviewers, independently. Disagreements will be resolved through concensus, and where this is not possible, a third reviewer will be consulted. Each study will also be rated according to the GRADE guidelines. There will be a standardized data form that will be used by each reviewer. (Appendix 4). Each relevant article will be critically appraised  by two reviewers, independently. Disagreements will be resolved through concensus, and where this is not possible, a third reviewer will be consulted.
+Randomized controlled trials will be assessed using the Cochrane Risk of Bias Tool. Cohort studies will be assessed using the SIGN tool for cohort studies. Each study will also be rated according to the GRADE guidelines[#Guyatt:2011eya]. There will be a standardized data form that will be used by each reviewer. (Appendix 4).
+Each relevant article will be critically appraised by two reviewers, independently. Disagreements will be resolved through concensus, and where this is not possible, a third reviewer will be consulted. 
 
 ### 13. Summary Measures 
 
@@ -229,7 +245,7 @@ Do patients really want to feel a little better? Most want to feel a lot better,
 
 There will be a Summary of Findings Table as recommended by the GRADE guidelines.  If there are enough studies to do a meta-analysis the heterogeneity of the studies will be assessed using I-squared.  A random effects meta-analysis will be done, as it is anticipated that the studies will have a heterogenous mix of patients, a heterogenous mix of acutely painful conditions,  and a heterogenous mix of comparison treatments. 
 
-### 15. Risk[25] of Bias Across Studies 
+### 15. Risk of Bias Across Studies 
 
 The GRADE items relative to risk of bias across studies, inconsistency and publication bias, will be assessed. 
 
@@ -263,86 +279,45 @@ These will be presented according to the GRADE guidelines summary of findings ta
 
 ### 21. Synthesis of Results
 
-### 20. Across Study Risk of Bias (# 23)
+### 22. Across Study Risk of Bias 
 
 These will be presented according to the GRADE guidelines summary of findings table.
 
-### 24. Additional Analyses (# 24)
+### 23. Additional Analyses 
 
 There will be tables summarizing study characteristics, risk of bias, and results, and additional analyses.
 
 ## Discussion
 
-### Summary of Evidence (# 24)
+### 24. Summary of Evidence 
 
 The summary of evidence will be done using the Grading of Recommendations Assessment, Development and Evaluation (GRADE)[9] guidelines, and presented in a summary of findings table.  The critical outcomes of patient-assessed adequacy of pain relief and severe adverse effects will have be used to 
 
-## Limitations (# 25)
+## 25. Limitations 
+
 The limitations of the review will be discussed.
 
-###Conclusions (# 26)
+### 26. Conclusions 
 
 Recommendations will be made as recommended in the GRADE guidelines. [10]
 
-###Funding (# 27)
+### 27. Funding 
 
 ## References
 
- 1. Poonai N, Paskar D, Konrad S-L, Rieder M, Joubert G, Lim R, et al. Opioid Analgesia for Acute Abdominal Pain in Children: A Systematic Review and Meta-analysis. Academic emergency medicine : official journal of the Society for Academic Emergency Medicine. 2014 Nov;21(11):1183–92. 
 
- 2. Lipp C, Dhaliwal R, Lang E. Analgesia in the emergency department: a GRADE-based evaluation of research evidence and recommendations for practice. Critical care (London, England). 2013 Mar 19;17(2):212. 
 
- 3. Manterola C, Vial M, Moraga J, Astudillo P. Analgesia in patients with acute abdominal pain. Cochrane database of systematic reviews (Online). 2011;(1):CD005660. 
+[7]: http://www.prisma-statement.org
 
- 4. Niemi-Murola L, Unkuri J, Hamunen K. Parenteral opioids in emergency medicine–A systematic review of efficacy and safety. Scandinavian Journal of Pain. Elsevier; 2011;2(4):187–94. 
+[8]: http://www.crd.york.ac.uk/PROSPERO
 
- 5. Patanwala AE, Keim SM, Erstad BL. Intravenous opioids for severe acute pain in the emergency department. Ann Pharmacother. 2010 Nov;44(11):1800–9. 
-
- 6. Ranji SR, Goldman LE, Simel DL, Shojania KG. Do opiates affect the clinical evaluation of patients with acute abdominal pain? JAMA. American Medical Association; 2006 Oct 11;296(14):1764–74. 
-
- 7. http://www.prisma-statement.org
-
- 8. http://www.crd.york.ac.uk/PROSPERO
-
- 9. http://www.gradeworkinggroup.org/index.htm
-
- 10. Andrews J, Guyatt G, Oxman AD, Alderson P, Dahm P, Falck-Ytter Y, et al. GRADE guidelines: 14. Going from evidence to recommendations: the significance and presentation of recommendations. Journal of clinical epidemiology. 2013 Jul;66(7):719–25. 
+[9]: http://www.gradeworkinggroup.org/index.htm
 
 
 
 
-1. Wilson JE, Pendleton JM. Oligoanalgesia in the emergency department. American Journal of Emergency Medicine. 1989 Nov;7(6):620–3. 
-2. Rupp T, Delaney KA. Inadequate analgesia in emergency medicine. Ann Emerg Med. 2004 Apr;43(4):494–503. 
-3. Miner JR, Todd KH. Pain Management in the Emergency Department. Practical Management of Pain. Elsevier; 2014. pp. 1009–1014.e2. 
-4. Ducharme J. Why is improving pain care so hard? Emerg Med Australas. 2013 Apr 7;25(2):110–1. 
-5. Albrecht E, Taffe P, Yersin B, Schoettker P, Decosterd I, Hugli O. Undertreatment of acute pain (oligoanalgesia) and medical practice variation in prehospital analgesia of adult trauma patients: a 10 yr retrospective study. British journal of anaesthesia. 2013 Jan;110(1):96–106. 
-6. Heins JK, Heins A, Grammas M, Costello M, Huang K, Mishra S. Disparities in analgesia and opioid prescribing practices for patients with musculoskeletal pain in the emergency department. Journal of emergency nursing: JEN : official publication of the Emergency Department Nurses Association. 2006 Jun;32(3):219–24. 
-7. Bijur PE, Esses D, Chang AK, Gallagher EJ. Dosing and titration of intravenous opioid analgesics administered to ED patients in acute severe pain. The American Journal of Emergency Medicine. 2012 Sep;30(7):1241–4. 
-8. O'Connor AB, Zwemer FL, Hays DP, Feng C. Intravenous opioid dosing and outcomes in emergency patients: a prospective cohort analysis. The American Journal of Emergency Medicine. 2010 Nov;28(9):1041–6. 
-9. O'Connor AB, Lang VJ, Quill TE. Underdosing of morphine in comparison with other parenteral opioids in an acute hospital: a quality of care challenge. Pain Med. 2006 Jul;7(4):299–307. 
 
 
-[5]Please expand on this and provide a Citation?
-[6]Was this last point yours or theirs. 
-Do you have a critique of this review? 
-[7]Explain why very specific questions are less useful…
-[8]Was this a systematic review as far as you could tell? Or was there  insufficient detail to even determine that?
-[9]Was this a meta-analysis?
 
-[11]Any comments about the usefulness or validity of this review?
-[12]Summarize the findings. 
-[13]This should be the last one you report since it is the closest to your research questions. 
-[14]Make sure you specify that there are two reviews and what those reviews will address. 
-[15]Provide a brief conceptual description of what reproducible research is 
-[16]This sentence comes a bit later. 
-[17]Will you also accept quasi randomized?
-[18]Develop a data form and include it as an appendix
-[19]Same one? Different one? If different, develop it and we will include it as an appendix 
-[20]DEVELOP A DATA FORM FOR THE APPENDIX . THEN YOU DON’T NEED TO INCLUDE THE FOLLOWING IN THE BODY OF THE PROPOSAL. 
-[21]To do: review choice of outcome of interest and try to define patient oriented outcomes, is change in VAS really patient oriented? Probably less important than patient perceived improvement {Ducharme:2013bp}
-[22]Important outcomes n v rescue pain
-[23]Each relevant article will be critically appraised  by two reviewers, independently. Disagreements will be resolved through concensus, and where this is not possible, a third reviewer will be consulted. 
-[24]I really need to go into more detail about the patient oriented outcomes.
+
 [25]Can you put the rest of this proposal into paragraph style? 
-[26]Need to describe what GRADE says.
-[27]Yes, I need to spend a couple of days going over GRADE in Depth
