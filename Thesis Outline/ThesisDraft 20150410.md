@@ -97,7 +97,7 @@ Another review[#Ranji:2006ki] (part of the JAMA Rational Clinical Exam series) a
 
 Finally, a 2010 review summarized the evidence for intravenous opioids for acute pain in the emergency department. It was a combination of a systematic review and narrative review. In the systematic review portion it included 10 hospital based and 3 pre-hopital studies, and the authors concluded that in equianalgesic doses of intravenous opioids there is no difference in analgesic effect. In their narrative review they suggest that nurse-initiated protocols and repeated dosing may lead to better analgesia. It is closest in topic to the planned reviews here. The reasons to perform the planned reviews in the light of this review are that it has been five years since that publication of this review, and so it is due for an update; and the methodology of their study is not reported in detail, so a study that gives more detailed methods would make the results more reproducible. 
 
-### 4. Objectives[14]
+### 4. Objectives
 
 In emergency conditions morphine is considered the standard against which other analgesics are measured. The effects of morphine are dose-dependent, so the first question for review is: 
 
