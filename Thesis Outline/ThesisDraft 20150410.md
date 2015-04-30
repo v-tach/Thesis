@@ -303,8 +303,7 @@ Recommendations will be made as recommended in the GRADE guidelines. [10]
 
 ### 27. Funding 
 
-## References
-
+[#bibliography]
 
 
 [7]: http://www.prisma-statement.org
