@@ -1,0 +1,11 @@
+
+Evaluate threshold for benefit for morphine vs "margin"--margin would be adequate relief of pain expressed as no need for further analgesia
+
+
+type of intervention, funding, publication year, pub- lication language, design, study size, blinding of patients, losses to follow-up, exclusions, handling of missing data, and treatment effects.
+
+
+duration of study
+pain scale used
+outcome: VAS (NRS), change in VAS, percent change in VAS adequacy of pain relief
+rescue medication, remedication, means, medians, percent responders

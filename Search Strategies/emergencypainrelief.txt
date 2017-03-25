@@ -1,0 +1,29 @@
+Concepts: emergency and pain measurement and patient satisfaction
+
+Medline
+
+
+(Emergency Treatment/ or Emergency Medicine/ or emergency medical services/ or emergency service, hospital/ or trauma centers/ or triage/ or exp Evidence-Based Emergency Medicine/ or exp Emergency Nursing/ or Emergencies/ or emergicent* or casualty department* or ((emergenc* or ED) adj1 (room* or accident or ward or wards or unit or units or department* or physician* or doctor* or nurs* or treatment* or visit*)).mp. or (triage or critical care or (trauma adj1 (cent* or care))).mp.)
+and
+(exp Pain Measurement/ or (pain adj3 (score* or rating* or scale* or measur* or intensit* or threshold* or manag* or relief or treat* or control)) or (pain and (NRS or (numeric rating adj1 (scale* or score*)) or VAS or (visual analog* adj1 (scale* or score*)))).mp.)
+and
+(exp Patient Satisfaction/ or exp Analgesia/ or exp "Outcome Assessment (Health Care)"/ or patient satisfaction.mp. or pain relief.mp. or ((adequate or satisfactory or good or excellent) adj1 (pain or analges*)).mp.)
+
+
+Embase
+
+(emergency treatment/ or emergency medicine/ or exp emergency health service/ or evidence based emergency medicine/ or emergency nursing/ or exp emergency care/ or emergency ward/ or emergency/ or casualty department* or (emergicent* or ((emergenc* or ED) adj1 (room* or accident or ward or wards or unit or units or department* or physician* or doctor* or nurs* or treatment* or visit*)).mp. or (triage or critical care or (trauma adj1 (cent* or care)))).mp.)
+and
+(exp pain measurement/ or ((pain adj3 (score* or rating* or scale* or measur* or intensit* or threshold* or manag* or relief or treat* or control)) or (pain and (NRS or (numeric rating adj1 (scale* or score*)) or VAS or (visual analog* adj1 (scale* or score*))))).mp.)
+and
+(exp patient satisfaction/ or exp analgesia/ or outcome assessment/ or patient satisfaction.mp. or pain relief.mp. or ((adequate or satisfactory or good or excellent) adj1 (pain or analges*)).mp.)
+
+CINAHL
+
+((MH "Emergency Service+") or (MH "Emergency Medicine") or (MH "Physicians, Emergency") or (MH "Emergency Nurse Practitioners") or (MH "Emergency Nursing+") or ((casualty N1 department*) or ((emergenc* or ED) N1 (room* or accident or ward or wards or unit or units or department* or physician* or doctor* or nurs* or treatment* or visit*)) or (triage or critical care or (trauma N1 (cent* or care)))))
+and
+((MH "Pain Measurement") or (TX (pain N3 (score* or rating* or scale* or measur* or intensit* or threshold* or manag* or relief or treat* or control)) or (pain and (NRS or (numeric rating N1 (scale* or score*)) or VAS or (visual analog* N1 (scale* or score*))))))
+and
+((MH "Patient Satisfaction") or (MH "Analgesia+") or (MH "Outcomes (Health Care)+") or (TX patient satisfaction) or (TX pain relief) or (TX (adequate or satisfactory or good or excellent) N1 (pain or analges*)))
+
+

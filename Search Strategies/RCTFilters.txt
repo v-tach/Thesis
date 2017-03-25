@@ -1,0 +1,13 @@
+MEDLINE
+
+((randomized controlled trial or clinical trial).pt. or randomi?ed.ti,ab. or placebo.ti,ab. or dt.fs. or randomly.ti,ab. or trial.ti,ab. or groups.ti,ab.) not (animals/ not (animals/ and humans/))
+
+EMBASE
+
+(exp clinical trial/ or randomi?ed.ti,ab. or placebo.ti,ab. or dt.fs. or randomly.ti,ab. or trial.ti,ab. or groups.ti,ab.) not (animal/ not (animal/ and human/))
+
+CINAHL
+
+((MH "Random Assignment") or (MH "Random Sample+") or (MH "Crossover Design") or (MH "Clinical Trials+") or (MH "Comparative Studies") or (MH "Control (Research)+") or (MH "Control Group") or (MH "Factorial Design") or (MH "Quasi-Experimental Studies+") or (MH "Placebos") or (MH "Meta Analysis") or (MH "Sample Size") or (MH "Research, Nursing") or (MH "Research Question") or (MH "Research Methodology+") or (MH "Evaluation Research+") or (MH "Concurrent Prospective Studies") or (MH "Prospective Studies") or (MH "Nursing Practice, Research-Based") or (MH "Solomon Four-Group Design") or (MH "One-Shot Case Study") or (MH "Pretest-Posttest Design+") or (MH "Static Group Comparison") or (MH "Study Design") or (MH "Clinical Research+")) or ( clinical nursing research or random* or cross?over or placebo* or control* or factorial or sham* or meta?analy* or systematic review* or blind* or mask* or trial* )
+
+from http://guides.library.ualberta.ca/health-sciences-search-filters/study-type-filters

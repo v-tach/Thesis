@@ -1,0 +1,14 @@
+Medline
+
+Epidemiologic studies/ or Cross-sectional studies/ or Exp case control studies/ or Exp cohort studies/ or Case control.tw. or (cohort adj (study or studies)).tw. or Cohort analy$.tw. or (Follow up adj (study or studies)).tw. or (observational adj (study or studies)).tw. or Longitudinal.tw. or Retrospective.tw. or Cross sectional.tw.
+
+EMBASE
+
+Clinical study/ or Case control study/ or Family study/ or Longitudinal study/ or Retrospective study/ or (Prospective study/ not Randomized controlled trials/) or Cohort analysis/ or (Cohort adj (study or studies)).mp. or (Case control adj (study or studies)).tw. or (follow up adj (study or studies)).tw. or (observational adj (study or studies)).tw. or (epidemiologic$ adj (study or studies)).tw. or (cross sectional adj (study or studies)).tw.
+
+CINAHL(EBSCO Version)
+
+(MH "Prospective Studies+") or (MH "Case Control Studies+") or (MH "Correlational Studies") or (MH "Nonconcurrent Prospective Studies") or (MH "Cross Sectional Studies") or (TX (cohort N1 (study or studies)) or (TX (observational N1 (study or studies))))
+
+
+modified from http://www.sign.ac.uk/methodology/filters.html#obs

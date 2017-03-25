@@ -1,0 +1,33 @@
+concepts: emergency and (RCT or observational study) and morphine
+
+
+MEDLINE
+
+
+(Emergency Treatment/ or Emergency Medicine/ or emergency medical services/ or emergency service, hospital/ or trauma centers/ or triage/ or exp Evidence-Based Emergency Medicine/ or exp Emergency Nursing/ or Emergencies/ or emergicent* or casualty department* or ((emergenc* or ED) adj1 (room* or accident or ward or wards or unit or units or department* or physician* or doctor* or nurs* or treatment* or visit*)).mp. or (triage or critical care or (trauma adj1 (cent* or care))).mp.)
+and
+(((randomized controlled trial or clinical trial).pt. or randomi?ed.ti,ab. or placebo.ti,ab. or dt.fs. or randomly.ti,ab. or trial.ti,ab. or groups.ti,ab.) not (animals/ not (animals/ and humans/))
+or 
+(Epidemiologic studies/ or Cross-sectional studies/ or Exp case control studies/ or Exp cohort studies/ or Case control.tw. or (cohort adj (study or studies)).tw. or Cohort analy$.tw. or (Follow up adj (study or studies)).tw. or (observational adj (study or studies)).tw. or Longitudinal.tw. or Retrospective.tw. or Cross sectional.tw.))
+and
+morphine.mp
+
+EMBASE
+
+(emergency treatment/ or emergency medicine/ or exp emergency health service/ or evidence based emergency medicine/ or emergency nursing/ or exp emergency care/ or emergency ward/ or emergency/ or casualty department* or (emergicent* or ((emergenc* or ED) adj1 (room* or accident or ward or wards or unit or units or department* or physician* or doctor* or nurs* or treatment* or visit*)).mp. or (triage or critical care or (trauma adj1 (cent* or care)))).mp.) 
+and 
+((exp clinical trial/ or randomi?ed.ti,ab. or placebo.ti,ab. or dt.fs. or randomly.ti,ab. or trial.ti,ab. or groups.ti,ab.) not (animal/ not (animal/ and human/))
+or 
+Clinical study/ or Case control study/ or Family study/ or Longitudinal study/ or Retrospective study/ or (Prospective study/ not Randomized controlled trials/) or Cohort analysis/ or (Cohort adj (study or studies)).mp. or (Case control adj (study or studies)).tw. or (follow up adj (study or studies)).tw. or (observational adj (study or studies)).tw. or (epidemiologic$ adj (study or studies)).tw. or (cross sectional adj (study or studies)).tw.)
+and 
+morphine.mp
+
+CINAHL
+
+((MH "Emergency Service+") or (MH "Emergency Medicine") or (MH "Physicians, Emergency") or (MH "Emergency Nurse Practitioners") or (MH "Emergency Nursing+") or ((casualty N1 department*) or ((emergenc* or ED) N1 (room* or accident or ward or wards or unit or units or department* or physician* or doctor* or nurs* or treatment or visit*)) or (triage or critical care or (trauma N1 (cent* or care))))) 
+and 
+(((MH "Random Assignment") or (MH "Random Sample+") or (MH "Crossover Design") or (MH "Clinical Trials+") or (MH "Comparative Studies") or (MH "Control (Research)+") or (MH "Control Group") or (MH "Factorial Design") or (MH "Quasi-Experimental Studies+") or (MH "Placebos") or (MH "Meta Analysis") or (MH "Sample Size") or (MH "Research, Nursing") or (MH "Research Question") or (MH "Research Methodology+") or (MH "Evaluation Research+") or (MH "Concurrent Prospective Studies") or (MH "Prospective Studies") or (MH "Nursing Practice, Research-Based") or (MH "Solomon Four-Group Design") or (MH "One-Shot Case Study") or (MH "Pretest-Posttest Design+") or (MH "Static Group Comparison") or (MH "Study Design") or (MH "Clinical Research+")) or ( clinical nursing research or random* or cross?over or placebo* or control* or factorial or sham* or meta?analy* or systematic review* or blind* or mask* or trial* ) 
+or 
+(MH "Prospective Studies+") or (MH "Case Control Studies+") or (MH "Correlational Studies") or (MH "Nonconcurrent Prospective Studies") or (MH "Cross Sectional Studies") or (TX (cohort N1 (study or studies)) or (TX (observational N1 (study or studies))))) 
+and
+TX morphine
